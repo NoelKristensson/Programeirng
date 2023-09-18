@@ -9,4 +9,5 @@ Gör en utskrift som blir ungefär så här.
 
 Rikard din favoritfärg är lila.
 '''
-print("hej")
+print("vad är din favorit färg?")
+print("vad är ditt namn?")
